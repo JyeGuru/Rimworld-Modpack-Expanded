@@ -1,0 +1,432 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModList>
+	<Name>Expanded Modpack</Name>
+	<modIds>
+		<li>brrainz.harmony</li>
+		<li>ludeon.rimworld</li>
+		<li>ludeon.rimworld.royalty</li>
+		<li>automatic.startupimpact</li>
+		<li>rimworldcclreborn.allyourbase</li>
+		<li>fluffy.modmanager</li>
+		<li>name.krypt.rimworld.moddiff</li>
+		<li>mlie.modcheck</li>
+		<li>erdelf.showmoddesignators</li>
+		<li>rwmt.multiplayer</li>
+		<li>rwmt.multiplayercompatibility</li>
+		<li>unlimitedhugs.hugslib</li>
+		<li>latta.fsharp.core</li>
+		<li>oskarpotocki.vanillafactionsexpanded.core</li>
+		<li>oskarpotocki.vanillaexpanded.royaltypatches</li>
+		<li>erdelf.humanoidalienraces</li>
+		<li>roolo.giddyupcore</li>
+		<li>roolo.giddyupcaravan</li>
+		<li>roolo.giddyuprideandroll</li>
+		<li>roolo.giddyupbattlemounts</li>
+		<li>edb.preparecarefully</li>
+		<li>mastertea.randomplus</li>
+		<li>zylle.mapdesigner</li>
+		<li>zylle.morevanillabiomes</li>
+		<li>chuiu.greenworld</li>
+		<li>meltup.beautifuloutdoors</li>
+		<li>vanillaexpanded.vcef</li>
+		<li>moretraitslots.kv.rw</li>
+		<li>neceros.badcanbegood</li>
+		<li>carnysenpai.traitraritycolors</li>
+		<li>bar0th.norandomrelations</li>
+		<li>frozensnowfox.advancedbionicsexpansion</li>
+		<li>com.prostheticnomissingbodyparts.rimworld.mod</li>
+		<li>daniledman.cyberfauna</li>
+		<li>kyd.prosthetics</li>
+		<li>aelanna.eccentrictech.cosmetics</li>
+		<li>syrchalis.prosthetictable</li>
+		<li>crustypeanut.wce2.core</li>
+		<li>smuffle.harvestorganspostmortem</li>
+		<li>troopersmith1.deathrattle</li>
+		<li>automatic.bionicicons</li>
+		<li>diddily.poweralerts</li>
+		<li>mlie.variousspaceshipchunk</li>
+		<li>earthyturtle.letstrade</li>
+		<li>earthyturtle.therocktrade</li>
+		<li>notfood.outfitted</li>
+		<li>avilmask.commonsense</li>
+		<li>forcedojob.kv.rw</li>
+		<li>fed1splay.pawntargetfix</li>
+		<li>dhultgren.smarterconstruction</li>
+		<li>dhultgren.keepbedownership</li>
+		<li>tammybee.whereismyweapon</li>
+		<li>mlie.pickupandhaul</li>
+		<li>codeoptimist.jobsofopportunity</li>
+		<li>uuugggg.sharetheload</li>
+		<li>dhultgren.useminifiedbuildings</li>
+		<li>brrainz.justignoremepassing</li>
+		<li>uuugggg.miningpriority</li>
+		<li>gguake.ai.dsfi</li>
+		<li>revolus.animalsarefun</li>
+		<li>fluffy.pharmacist</li>
+		<li>petetimessix.simplesidearms</li>
+		<li>roolo.runandgun</li>
+		<li>roolo.dualwield</li>
+		<li>automatic.gunplay</li>
+		<li>com.yayo.combat3</li>
+		<li>falconne.aff</li>
+		<li>unlimitedhugs.defensivepositions</li>
+		<li>pathavoid.kv.rw</li>
+		<li>syrchalis.harvestyieldpatch</li>
+		<li>smashphil.carrycapacityfixed</li>
+		<li>oblitus.animalslogic</li>
+		<li>jaxe.foodrestrictions</li>
+		<li>fluffy.fluffybreakdowns</li>
+		<li>nitrodev.inspiration</li>
+		<li>ratys.madskills</li>
+		<li>avilmask.nonunopinata</li>
+		<li>neceros.roomsizetolerance</li>
+		<li>mobius.royaltytweaks</li>
+		<li>drumad.squaduitweaks</li>
+		<li>navyseal5.moreharvestdesignators</li>
+		<li>thewirelord354.conduitdeconstruct</li>
+		<li>brrainz.cameraplus</li>
+		<li>dubwise.dubsmintminimap</li>
+		<li>dubwise.dubsmintmenus</li>
+		<li>jaxe.rimhud</li>
+		<li>giantspacehamster.moody</li>
+		<li>mehni.numbers</li>
+		<li>fluffy.animaltab</li>
+		<li>revolus.textilestats</li>
+		<li>bodlosh.weaponstats</li>
+		<li>compilatron.powertab</li>
+		<li>gguake.ui.armorinfo</li>
+		<li>ubergarm.kanbanstockpile</li>
+		<li>gguake.ui.simplesearchbar</li>
+		<li>notfood.yasp</li>
+		<li>automatic.autolinks</li>
+		<li>merthsoft.designatorshapes</li>
+		<li>crashm.colorcodedmoodbar.11</li>
+		<li>targhetti.showdrafteesweapon</li>
+		<li>jaxe.bubbles</li>
+		<li>caesarv6.damageindicators</li>
+		<li>falconne.heatmap</li>
+		<li>krafs.levelup</li>
+		<li>insertkey.itemlistselector</li>
+		<li>weilbyte.renamecolony</li>
+		<li>syrchalis.setupcamp</li>
+		<li>xeonovadan.propershotguns</li>
+		<li>uuugggg.replacestuff</li>
+		<li>hatti.qualitybuilder</li>
+		<li>ogliss.toastehs.veinminer</li>
+		<li>azuraal.choiceofpsycasts</li>
+		<li>mrhacky.butcherycountsmeattypes</li>
+		<li>brucethemoose.optimizationmeats</li>
+		<li>ogliss.thewhitecrayon.quarry</li>
+		<li>vanillaexpanded.vcooke</li>
+		<li>vanillaexpanded.vcookestews</li>
+		<li>vanillaexpanded.vcookesushi</li>
+		<li>vanillaexpanded.vbrewe</li>
+		<li>vanillaexpanded.vbrewecandt</li>
+		<li>vanillaexpanded.vplantse</li>
+		<li>rimfridge.kv.rw</li>
+		<li>lwm.deepstorage</li>
+		<li>sixdd.littlestorage2</li>
+		<li>jangodsoul.simplestorage</li>
+		<li>jangodsoul.simplestorage.ref</li>
+		<li>oken.rebalanceddeepstorage</li>
+		<li>vanillaexpanded.vfeproduction</li>
+		<li>vanillaexpanded.vfecore</li>
+		<li>vanillaexpanded.vfefarming</li>
+		<li>vanillaexpanded.vfesecurity</li>
+		<li>vanillaexpanded.vfespacer</li>
+		<li>wemd.reinforceddoors</li>
+		<li>khamenman.armorracks</li>
+		<li>ratys.rtfuse</li>
+		<li>notfood.mendandrecycle</li>
+		<li>syrchalis.doormats</li>
+		<li>murmur.walllight</li>
+		<li>merthsoft.timeofdayswitches</li>
+		<li>haplo.miscellaneous.training</li>
+		<li>cucumpear.embrasures</li>
+		<li>bichang.moresculpture</li>
+		<li>vanillaexpanded.vfeart</li>
+		<li>tradingspot.kv.rw</li>
+		<li>owlchemist.undergroundpowerconduits</li>
+		<li>vanillaexpanded.vplantsesucculents</li>
+		<li>vanillaexpanded.vfepropsanddecor</li>
+		<li>vanillaexpanded.vappe</li>
+		<li>vanillaexpanded.vbookse</li>
+		<li>yiuaaa.netgun</li>
+		<li>vanillaexpanded.varme</li>
+		<li>vanillaexpanded.vwe</li>
+		<li>vanillaexpanded.vweq</li>
+		<li>vanillaexpanded.vweg</li>
+		<li>dninemfive.qualitycooldown</li>
+		<li>dingo.grenadefixrearmed</li>
+		<li>relaxedotter.wearwhatyouwant</li>
+		<li>etrt.industrialtweaks</li>
+		<li>etrt.medicineproduction</li>
+		<li>frozensnowfox.efficientutilities</li>
+		<li>thegoofyone.betterspots</li>
+		<li>5katz.commschat</li>
+		<li>dninemfive.pepinyourstep</li>
+		<li>relaxedotter.moreinspirationtypes</li>
+		<li>relaxedotter.longerinspirations</li>
+		<li>dingo.lessrebuff</li>
+		<li>pinochemicali.skilledstonecutting</li>
+		<li>frozensnowfox.growablemushrooms</li>
+		<li>spoonshortage.nokumushrooms</li>
+		<li>latta.infusion</li>
+		<li>taranchuk.claysoldeirs</li>
+		<li>haplo.miscellaneous.robots</li>
+		<li>alaestor.miscrobots.plusplus</li>
+		<li>spincrus.dinosauria</li>
+		<li>vanillaexpanded.vaeas</li>
+		<li>vanillaexpanded.vaeau</li>
+		<li>vanillaexpanded.vaebf</li>
+		<li>vanillaexpanded.vaecd</li>
+		<li>vanillaexpanded.vaed</li>
+		<li>vanillaexpanded.vaeed</li>
+		<li>vanillaexpanded.vaeis</li>
+		<li>vanillaexpanded.vaetf</li>
+		<li>vanillaexpanded.vaetr</li>
+		<li>vanillaexpanded.vaets</li>
+		<li>vanillaexpanded.vaet</li>
+		<li>erin.mountain</li>
+		<li>jaxe.boommod</li>
+		<li>jintuzilamian.hairstyle.afuwomenshairstyles</li>
+		<li>jintuzilamian.hairstyle.afumenshairstyles</li>
+		<li>ameiro.animehairs</li>
+		<li>aelanna.eccentricextras.angelhairs</li>
+		<li>gloomy.gloomyhairmk2</li>
+		<li>uru.keomono.friends.hair</li>
+		<li>vanya.agent.lolidrophairshop</li>
+		<li>lingluo.lovelyhairstyle</li>
+		<li>mlie.ponytailiskawaii</li>
+		<li>rimsenal.hair</li>
+		<li>spoonshortage.spoonshairmod</li>
+		<li>won.hair</li>
+		<li>won2.hair</li>
+		<li>showhair.kv.rw</li>
+		<li>packmulesextended.standard</li>
+		<li>packmulesextended.dinosauria</li>
+		<li>grimm.unlimited</li>
+		<li>frozensnowfox.complexjobs</li>
+		<li>zylle.extensioncords</li>
+		<li>sf.materials.rebalanved</li>
+		<li>vanillaexpanded.vtexe</li>
+		<li>codyspring.vtexeme</li>
+		<li>vfme.caravanpacks</li>
+		<li>zylle.sarcophagusistable</li>
+		<li>zyxabacab.nosympathyforprisoners</li>
+	</modIds>
+	<modNames>
+		<li>Harmony</li>
+		<li>Core</li>
+		<li>Royalty</li>
+		<li>Startup impact</li>
+		<li>All your base</li>
+		<li>Mod Manager</li>
+		<li>ModDiff</li>
+		<li>ModCheck (Continued)</li>
+		<li>ShowModDesignators</li>
+		<li>Multiplayer</li>
+		<li>Multiplayer Compatibility</li>
+		<li>HugsLib</li>
+		<li>FSharp.Core</li>
+		<li>Vanilla Expanded Framework</li>
+		<li>Vanilla Expanded - Royalty Patches</li>
+		<li>Humanoid Alien Races 2.0</li>
+		<li>Giddy-up! Core</li>
+		<li>Giddy-up! Caravan</li>
+		<li>Giddy-up! Ride and Roll</li>
+		<li>Giddy-up! Battle Mounts</li>
+		<li>EdB Prepare Carefully</li>
+		<li>RandomPlus</li>
+		<li>Map Designer</li>
+		<li>More Vanilla Biomes</li>
+		<li>Greenworld</li>
+		<li>Beautiful Outdoors</li>
+		<li>Vanilla Fishing Expanded</li>
+		<li>[KV] More Trait Slots</li>
+		<li>Bad Can Be Good</li>
+		<li>Trait Rarity Colors</li>
+		<li>No Random Relations</li>
+		<li>[FSF] Advanced Bionics Expansion</li>
+		<li>Prosthetic No Missing Body Parts</li>
+		<li>Cyber Fauna 1.2</li>
+		<li>[KYD] More Pawns Get Prosthetics!</li>
+		<li>Eccentric Tech - Cosmetic Modifications</li>
+		<li>[SYR] Prosthetic Table</li>
+		<li>War Crimes Expanded 2 Core</li>
+		<li>Harvest Organs Post Mortem</li>
+		<li>Death Rattle Continued [1.2]</li>
+		<li>Bionic icons</li>
+		<li>Power Alerts</li>
+		<li>Various Space Ship Chunk (Continued)</li>
+		<li>Let's Trade!</li>
+		<li>The Rock Trade</li>
+		<li>Outfitted</li>
+		<li>Common Sense</li>
+		<li>[KV] Force Do Job</li>
+		<li>PawnTargetFix</li>
+		<li>Smarter Construction</li>
+		<li>Keep Bed Ownership</li>
+		<li>Where is my weapon?</li>
+		<li>Pick Up And Haul (Continued)</li>
+		<li>Jobs of Opportunity (While You're Up)</li>
+		<li>Share The Load</li>
+		<li>Use Minified Buildings</li>
+		<li>Just Ignore Me Passing</li>
+		<li>Mining Priority</li>
+		<li>Do Something for Idle</li>
+		<li>Animals are fun</li>
+		<li>Pharmacist</li>
+		<li>Simple sidearms</li>
+		<li>RunAndGun</li>
+		<li>Dual Wield</li>
+		<li>Gunplay</li>
+		<li>Yayo's Combat 3</li>
+		<li>Avoid Friendly Fire</li>
+		<li>Defensive Positions</li>
+		<li>[KV] Path Avoid</li>
+		<li>[SYR] Harvest Yield</li>
+		<li>Carry Capacity Fixed</li>
+		<li>Animals Logic</li>
+		<li>Animal Food Restrictions</li>
+		<li>Fluffy Breakdowns</li>
+		<li>Inspiration</li>
+		<li>Mad Skills</li>
+		<li>Non uno Pinata</li>
+		<li>Room Size Tolerance</li>
+		<li>Royalty Tweaks</li>
+		<li>Squad UI Tweaks</li>
+		<li>More Harvest Designators!</li>
+		<li>Conduit Deconstruct</li>
+		<li>Camera+</li>
+		<li>Dubs Mint Minimap</li>
+		<li>Dubs Mint Menus</li>
+		<li>RimHUD</li>
+		<li>Moody</li>
+		<li>Numbers</li>
+		<li>Animal Tab</li>
+		<li>Textile Stats</li>
+		<li>WeaponStats</li>
+		<li>Power Tab</li>
+		<li>Wearing Armor Info</li>
+		<li>KanbanStockpile</li>
+		<li>Simple Search Bar</li>
+		<li>Yet Another Stockpile Presets</li>
+		<li>Auto links</li>
+		<li>Designator Shapes</li>
+		<li>CM Color Coded Mood Bar [1.1+]</li>
+		<li>Show Draftees Weapon</li>
+		<li>Interaction Bubbles</li>
+		<li>Damage Indicators [1.2]</li>
+		<li>Heat Map</li>
+		<li>Level Up!</li>
+		<li>ItemListSelector</li>
+		<li>RenameColony</li>
+		<li>[SYR] Set Up Camp</li>
+		<li>[XND] Proper Shotguns</li>
+		<li>Replace Stuff</li>
+		<li>QualityBuilder</li>
+		<li>Veinminer R1.1</li>
+		<li>Choice Of Psycasts</li>
+		<li>Butchery Counts Meat Types</li>
+		<li>Optimization: Meats (1.2)</li>
+		<li>Quarry 1.1</li>
+		<li>Vanilla Cooking Expanded</li>
+		<li>Vanilla Cooking Expanded - Stews</li>
+		<li>Vanilla Cooking Expanded - Sushi</li>
+		<li>Vanilla Brewing Expanded</li>
+		<li>Vanilla Brewing Expanded - Coffees and Teas</li>
+		<li>Vanilla Plants Expanded</li>
+		<li>[KV] RimFridge</li>
+		<li>LWM's Deep Storage</li>
+		<li>Little Storage 2</li>
+		<li>[JDS] Simple Storage</li>
+		<li>[JDS] Simple Storage - Refrigeration</li>
+		<li>Rebalanced Deep Storage</li>
+		<li>Vanilla Furniture Expanded - Production</li>
+		<li>Vanilla Furniture Expanded</li>
+		<li>Vanilla Furniture Expanded - Farming</li>
+		<li>Vanilla Furniture Expanded - Security</li>
+		<li>Vanilla Furniture Expanded - Spacer Module</li>
+		<li>[WD] Reinforced Doors</li>
+		<li>Armor Racks</li>
+		<li>RT Fuse</li>
+		<li>MendAndRecycle</li>
+		<li>[SYR] Doormats</li>
+		<li>Wall Light</li>
+		<li>Time-of-Day Switches</li>
+		<li>Misc. Training</li>
+		<li>Matching Embrasures</li>
+		<li>More Sculpture</li>
+		<li>Vanilla Furniture Expanded - Art</li>
+		<li>[KV] Trading Spot</li>
+		<li>Underground Power Conduits</li>
+		<li>Vanilla Plants Expanded - Succulents</li>
+		<li>Vanilla Furniture Expanded - Props and Decor</li>
+		<li>Vanilla Apparel Expanded</li>
+		<li>Vanilla Books Expanded</li>
+		<li>Net Gun</li>
+		<li>Vanilla Armour Expanded</li>
+		<li>Vanilla Weapons Expanded</li>
+		<li>Vanilla Weapons Expanded - Quickdraw</li>
+		<li>Vanilla Weapons Expanded - Grenades</li>
+		<li>Quality Cooldown</li>
+		<li>Grenade Fix: Rearmed</li>
+		<li>Wear What You Want</li>
+		<li>ETRT: Industrial Tweaks</li>
+		<li>ETRT: Medicine Production</li>
+		<li>[FSF] Efficient Utilities</li>
+		<li>Better Spots</li>
+		<li>Chatting on Comms</li>
+		<li>Pep In Your Step</li>
+		<li>More Inspiration Types</li>
+		<li>Longer Inspirations</li>
+		<li>Less Rebuff</li>
+		<li>Skilled Stonecutting</li>
+		<li>[FSF] Growable Mushrooms</li>
+		<li>Noku Mushrooms</li>
+		<li>Infusion 2</li>
+		<li>Clay Soldier Race</li>
+		<li>Misc. Robots</li>
+		<li>Misc. Robots++</li>
+		<li>Dinosauria</li>
+		<li>Vanilla Animals Expanded — Arid Shrubland</li>
+		<li>Vanilla Animals Expanded — Australia</li>
+		<li>Vanilla Animals Expanded — Boreal Forest</li>
+		<li>Vanilla Animals Expanded — Cats and Dogs</li>
+		<li>Vanilla Animals Expanded — Desert</li>
+		<li>Vanilla Animals Expanded — Extreme Desert</li>
+		<li>Vanilla Animals Expanded — Ice Sheet</li>
+		<li>Vanilla Animals Expanded — Temperate Forest</li>
+		<li>Vanilla Animals Expanded — Tropical Rainforest</li>
+		<li>Vanilla Animals Expanded — Tropical Swamp</li>
+		<li>Vanilla Animals Expanded — Tundra</li>
+		<li>Erin's Mountain Animals</li>
+		<li>BoomMod</li>
+		<li>AFU女士发型_Women's hairstyles</li>
+		<li>AFU男士发型_Men's hairstyles</li>
+		<li>Ameiro anime hairs</li>
+		<li>Eccentric Extras - Angel Hairs</li>
+		<li>Gloomy Hair mk2</li>
+		<li>[Uru] Kemono Friends Hair</li>
+		<li>Lolidrop's hairshop</li>
+		<li>[SS]Lovely Hair Style</li>
+		<li>Ponytail is Kawaii (Continued)</li>
+		<li>Rimsenal - Rimhair</li>
+		<li>Spoons Hair Mod</li>
+		<li>Won hair_men</li>
+		<li>Won hair_women </li>
+		<li>[KV] Show Hair With Hats or Hide All Hats</li>
+		<li>Pack Mules Extended</li>
+		<li>Pack Mules Extended - Dinosauria</li>
+		<li>Un-Limited</li>
+		<li>[FSF] Complex Jobs</li>
+		<li>Extension Cords</li>
+		<li>SF Materials Rebalanced</li>
+		<li>Vanilla Textures Expanded</li>
+		<li>Vanilla Textures Expanded - Mod Expansion</li>
+		<li>VFME - Caravan Packs!</li>
+		<li>Sarcophagus = Table</li>
+		<li>No Sympathy for Prisoners</li>
+	</modNames>
+</ModList>
