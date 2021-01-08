@@ -94,3 +94,6 @@ Avoid Friendly Fire:
 
 Heat Map:
 - Show Outdoor Thermometer: False
+
+Simple Sidearms
+- Limits / Melee / Max mass per sidearm: 2.01 (allow hammer tool)

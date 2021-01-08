@@ -18,7 +18,7 @@
     <LimitModeSingle>RelativeWeight</LimitModeSingle>
     <LimitModeAmount>Slots</LimitModeAmount>
     <LimitModeSingleMelee>AbsoluteWeight</LimitModeSingleMelee>
-    <LimitModeSingleMelee_Absolute>1.9</LimitModeSingleMelee_Absolute>
+    <LimitModeSingleMelee_Absolute>2.01</LimitModeSingleMelee_Absolute>
     <LimitModeSingleMelee_Selection></LimitModeSingleMelee_Selection>
     <LimitModeAmountMelee>Slots</LimitModeAmountMelee>
     <LimitModeAmountMelee_Selection>2</LimitModeAmountMelee_Selection>
